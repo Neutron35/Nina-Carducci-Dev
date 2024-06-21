@@ -29,7 +29,7 @@ nav ul {
 	margin-bottom: 0;
 }
 
-nav li {
+nav li, .nav li {
 	padding-inline: 10px;
 }
 
